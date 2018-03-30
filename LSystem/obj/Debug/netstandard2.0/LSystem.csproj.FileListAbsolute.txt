@@ -1,0 +1,9 @@
+E:\Project\C#Project\Fractals\LSystem\bin\Debug\netstandard2.0\LSystem.deps.json
+E:\Project\C#Project\Fractals\LSystem\bin\Debug\netstandard2.0\LSystem.dll
+E:\Project\C#Project\Fractals\LSystem\bin\Debug\netstandard2.0\LSystem.pdb
+E:\Project\C#Project\Fractals\LSystem\obj\Debug\netstandard2.0\LSystem.csprojResolveAssemblyReference.cache
+E:\Project\C#Project\Fractals\LSystem\obj\Debug\netstandard2.0\LSystem.csproj.CoreCompileInputs.cache
+E:\Project\C#Project\Fractals\LSystem\obj\Debug\netstandard2.0\LSystem.AssemblyInfoInputs.cache
+E:\Project\C#Project\Fractals\LSystem\obj\Debug\netstandard2.0\LSystem.AssemblyInfo.cs
+E:\Project\C#Project\Fractals\LSystem\obj\Debug\netstandard2.0\LSystem.dll
+E:\Project\C#Project\Fractals\LSystem\obj\Debug\netstandard2.0\LSystem.pdb
